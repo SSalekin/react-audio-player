@@ -1,0 +1,17 @@
+div.player {
+  background: #e20000ab;
+  padding: 10px;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+button {
+  border-radius: 30%;
+  padding: 10px;
+  border: none;
+  margin: 2px;
+}
+
+button:hover, button.focused {
+  background-color: mediumvioletred;
+}
